@@ -1,0 +1,43 @@
+.svg{
+    height: 5vh;
+    width: 3vw;
+}
+
+.left h1 {
+    font-size: 2.3rem;
+}
+
+.right img {
+    width: 40rem;
+}
+
+.text{
+    padding-right: 5rem;
+}
+
+.text h1{
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.text p{
+    font-size: 1rem;
+}
+
+.bg{
+    height: 20rem;
+    width: 20rem;
+}
+
+.bg img{
+    height: 20rem;
+    width: 20rem;
+}
+
+/* styling for container 4: */
+
+/* Styling for container 4 */
+
+.text5{
+    padding-inline: 5rem;
+}

@@ -1,0 +1,84 @@
+.svg{
+    height: 4vh;
+    width: 3vw;
+}
+
+.left h2 {
+    font-size: 1.2rem;
+    padding-block: 1rem;
+}
+
+.left p {
+    font-size: 1.1rem;
+    padding-block: 1rem;
+}
+
+.right img {
+    right: -20px;
+    width: 33rem;
+}
+
+.text h1{
+    font-size: 1.4rem;
+    padding-bottom: 1rem;
+}
+
+.text p{
+    font-size: 0.95rem;
+}
+
+.bg{
+    height: 19rem;
+    width: 19rem;
+}
+
+.bg img{
+    height: 19rem;
+    width:19rem;
+}
+
+/* styling for container 4 starts here: */
+
+.section1, .section3{
+    padding-block: 7rem;
+}
+
+.text4{
+    padding-right: 0;
+}
+
+.text4 h1{
+    font-size: 2rem;
+}
+
+.text4 p{
+    font-size: 1rem;
+}
+
+.mobile{
+    left: 60%;
+    width: 13rem;
+}
+
+.mobile1{
+    left: 50%;
+    width: 13rem;
+}
+
+.arrow{
+    display: none;
+}
+
+.arrow1{
+    display: none;
+}
+
+@media only screen and (max-width:900px){
+    .mobile{
+        left: 60%;
+    }
+    
+    .mobile1{
+        left: 40%;
+    }
+}
